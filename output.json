@@ -1,0 +1,22 @@
+[
+  {
+    "subject": "Deal Expo Digital 20 from Cochin Id IPL210524_0019",
+    "llmResponse": "{\n  \"sentiment\": \"neutral\",\n  \"analysedPurpose\": \"Sharing deal details and logistics information for Expo Digital 20 shipment from Cochin to USA.\",\n  \"customerSatisfactionRating\": \"\"\n}",
+    "threadLink": "https://mail.google.com/mail/u/0/#search/19025086fa384ed9"
+  },
+  {
+    "subject": "BKG NO: 240199887 // Freight & Bkg request / NSA to LA/LB / FCL-20 GP Id IPL210524_0015",
+    "llmResponse": "{\n  \"sentiment\": \"Positive\",\n  \"analysedPurpose\": \"The purpose of the thread is to confirm the booking details and terms for a shipment from DLPLines to LA/LB, US\",\n  \"customerSatisfactionRating\": \"\"\n}",
+    "threadLink": "https://mail.google.com/mail/u/0/#search/19024ee4e2b168f4"
+  },
+  {
+    "subject": "Deal 1x20 feet DAP from Cochin to Colorado Id IPL170624_0122",
+    "llmResponse": "{\n  \"sentiment\": \"neutral\",\n  \"analysedPurpose\": \"Sharing details of a new deal created for shipping 1x20 feet DAP from Cochin to Colorado\",\n  \"customerSatisfactionRating\": \"\"\n}",
+    "threadLink": "https://mail.google.com/mail/u/0/#search/19024d47e9b71b1f"
+  },
+  {
+    "subject": "Deal Dharsini Exports 20 feet Door from Cochin to Illinois Id IPL170624_0121",
+    "llmResponse": "{\n  \"sentiment\": \"Neutral\",\n  \"analysedPurpose\": \"Sharing deal details and specifications for transportation of goods from Cochin to Illinois for Dharsini Exports.\",\n  \"customerSatisfactionRating\": \"\"\n}",
+    "threadLink": "https://mail.google.com/mail/u/0/#search/19024d0101925333"
+  }
+]
