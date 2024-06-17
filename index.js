@@ -43,6 +43,7 @@ const responses = [];
 console.log(`Total threads: ${allThreads.length}`);
 
 for (const thread of allThreads) {
+  console.log(`Processing thread: ${thread.id}`);
   const threadData = await gmail.users.threads.get({
     userId: "me",
     id: thread.id,
